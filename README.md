@@ -50,8 +50,8 @@ const aboutMe = {
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanGM05&hide=c%2B%2B)](https://github.com/EstebanGM05/github-readme-stats)
-
+[![Stats GitHub](https://github-readme-stats.vercel.app/api?username=EstebanGM05)](https://github.com/EstebanGM05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanGM05&layout=donut)](https://github.com/EstebanGM05/github-readme-stats)
 
 ---
 
@@ -60,3 +60,4 @@ const aboutMe = {
 <a href="mailto:perrosonyco@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
 </a>
+
