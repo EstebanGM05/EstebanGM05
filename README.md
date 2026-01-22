@@ -17,7 +17,8 @@ const aboutMe = {
   currentOccupation: ["👨‍🏫 Estudent of Technician Apliccation Web at IES Hermenegildo Lanz"],
   challenge: "🏃 Reach Gold in League of legends."
 }
-
+```
+---
 ### 🚀 Tech Stack & Tools
 
 <a href="https://github.com/EstebanGM05">
